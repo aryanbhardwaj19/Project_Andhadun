@@ -75,4 +75,9 @@ The project is currently in its **Final Integration Phase**. All core modules ar
 
 ---
 
+## 👥 Contributors
+
+- **Anirudha Mohanty** - *Project Lead & Architect*
+- **Aryan Bharadwaj** - *Lead Developer & Visionary*
+
 *Designed with ❤️ for Accessibility.*
